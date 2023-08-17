@@ -1,5 +1,23 @@
 {
     "users": [
-        
-    ]
+        {
+
+            "email": "Ankush@gmail.com",
+            "password": "ank123",
+            "name": "Ankush",
+            "image": "https://img.freepik.com/premium-vector/man-avatar-profile-round-icon_24640-14044.jpg?w=2000",
+            "id": 1
+    
+      },
+      {
+    
+            "email": "sky@mi.com",
+            "password": "sky123",
+            "name": "sky",
+            "image": "https://img.freepik.com/premium-vector/man-avatar-profile-round-icon_24640-14044.jpg?w=2000",
+            "id": 2
+    
+      }
+    ],
+    "forum": []
 }
